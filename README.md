@@ -63,8 +63,8 @@
 <a href="https://leetcode.com/MrGod4/">
   <img src="https://tse2.mm.bing.net/th?id=OIP.-iI3efXyfKiTWuuYKDJzyAHaHa&pid=Api&P=0&h=220" alt="Image description" width="50" height="50">
 </a>
-  <a href="https://leetcode.com/MrGod4/">
-  <img src="https://tse2.mm.bing.net/th?id=OIP.-iI3efXyfKiTWuuYKDJzyAHaHa&pid=Api&P=0&h=220" alt="Image description" width="50" height="50">
+  <a href="https://auth.geeksforgeeks.org/user/jayachandra04">
+  <img src="https://tse3.mm.bing.net/th?id=OIP.kWTQ-iUYg_yza-dWP3tsRQHaHa&pid=Api&P=0&h=220" width="50" height="50">
 </a>
   <br/><br/><br/>
 </div>

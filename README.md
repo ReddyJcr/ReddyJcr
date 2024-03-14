@@ -47,11 +47,7 @@
 
 
 
-<div>
-  <img src="https://img.icons8.com/?size=50&id=sXm12ie1GUjg&format=png" width="30" height="30" alt="Snake icon"><h2>My Coding Profiles</h2><img src="https://img.icons8.com/?size=50&id=sXm12ie1GUjg&format=png" width="30" height="30" alt="Snake icon">
-  
-  
-</div>
+
   <br>
 
 <a href="https://leetcode.com/MrGod4/">

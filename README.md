@@ -46,7 +46,7 @@
 
 
 
-
+<h2 align="center">⚡ Coding profile ⚡</h2>
 
   <br>
 <div align = center>

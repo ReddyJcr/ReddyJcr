@@ -59,7 +59,10 @@
 <div align="center">
   <h2>🐍 My Coding Profiles 🐍</h2>
   <br>
-  <img alt="LeetCode" src="https://raw.githubusercontent.com/Reddyjcr/ReddyJcr/output/github-contribution-grid-snake.svg" />
+
+<a href="https://leetcode.com/MrGod4/">
+  <img src="https://tse2.mm.bing.net/th?id=OIP.-iI3efXyfKiTWuuYKDJzyAHaHa&pid=Api&P=0&h=220" alt="Image description">
+</a>
   
   <br/><br/><br/>
 </div>

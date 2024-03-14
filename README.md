@@ -54,6 +54,18 @@
 
 <hr/>
 
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Coding Profiles 🐍</h2>
+  <br>
+  <img alt="LeetCode" src="https://raw.githubusercontent.com/Reddyjcr/ReddyJcr/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>

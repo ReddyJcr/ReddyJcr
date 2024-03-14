@@ -5,7 +5,7 @@
 
 </h1>
 
-<h3 align="center">A passionate software developer from India 🇨🇦</h3>
+<h3 align="center">A passionate software developer from India</h3>
 
 <br/>
 
@@ -44,17 +44,9 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Reddyjcr/ReddyJcr/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
 
-<hr/>
 
-<hr/>
+
 
 <div align="center">
   <h2>🐍 My Coding Profiles 🐍</h2>

@@ -49,7 +49,7 @@
 
 
   <br>
-
+<div align = center>
 <a href="https://leetcode.com/MrGod4/">
   <img src="https://tse2.mm.bing.net/th?id=OIP.-iI3efXyfKiTWuuYKDJzyAHaHa&pid=Api&P=0&h=220" alt="Image description" width="50" height="50">
 </a>
